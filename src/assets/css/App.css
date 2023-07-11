@@ -2,6 +2,12 @@
     border: 3px solid #f1f1f1;
 }
 
+/* .brg-img {
+    background-image: url(../imgs/bgr-admin.jpg);
+
+    background-size: cover;
+} */
+
 .login-form input[type=email],
 .login-form input[type=password] {
     width: 100%;

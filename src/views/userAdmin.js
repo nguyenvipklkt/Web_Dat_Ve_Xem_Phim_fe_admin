@@ -53,7 +53,7 @@ const UserAdmin = () => {
     }
 
     return (
-        <div>
+        <div className="brg-img">
             <div class="header-home">
                 <div class="topnav">
                     <a class="active" href="userAdmin">Người dùng</a>
